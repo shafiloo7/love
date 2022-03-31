@@ -1,0 +1,30 @@
+body {
+    background-color: #1A132F;
+}
+
+.red-color {
+    width: 100%;
+    border-radius: 50px;
+    height: 100vh;
+    background-color: #890F0D;
+}
+
+.inp {
+    background: #1A132F;
+    color: azure;
+    width: 100%;
+    border-radius: 20px;
+    border: none;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.btn1 {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #1A132F;
+    color: azure;
+    border: none;
+    margin-bottom: 15px;
+    padding: 8px 0;
+}
